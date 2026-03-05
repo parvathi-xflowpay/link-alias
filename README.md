@@ -1,4 +1,4 @@
-# Bug: Turbopack `resolveAlias` for `next/link` does not apply — original Next.js Link is still used
+# Turbopack `resolveAlias` for `next/link` does not apply — original Next.js Link is still used
 
 ## Summary
 
